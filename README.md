@@ -14,9 +14,6 @@ de aplicaciones reales y mejorar mis habilidades en arquitectura de software.
 - 📚 Actualmente en 4to semestre    
 - 🛠 Experiencia con proyectos académicos usando Java, MySQL y control de versiones con Git  
 - 📈 En constante aprendizaje de nuevas tecnologías y buenas prácticas de desarrollo  
-## 🛠 Herramientas
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📂 Proyectos Destacados
 
@@ -31,6 +28,10 @@ Desarrollo de un sistema aplicando POO para la gestión de licencias.
 Diseño de base de datos y lógica para gestión de productos y ventas. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/ExamenFinal_ProyectoBasedeDatos)
+## 🛠 Herramientas
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## stats
 
 
