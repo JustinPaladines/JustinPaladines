@@ -1,5 +1,5 @@
 
-# Hola, soy Justin Paladines 💻
+# Hola 💻, soy Justin Paladines 
 
 🎓 Estudiante de Tecnología Superior en Desarrollo de Software en la Escuela Politécnica Nacional  
 
