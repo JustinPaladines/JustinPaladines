@@ -17,12 +17,14 @@ de aplicaciones reales y mejorar mis habilidades en arquitectura de software.
 
 ## 📂 Proyectos Destacados
 
-### SISTEMA DE LICENCIAS     [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/Prueba2_SistemadeLicencias)
+### SISTEMA DE LICENCIAS     
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/Prueba2_SistemadeLicencias)
 
 Desarrollo de un sistema aplicando POO para la gestión de licencias.  
 
 
-### SISTEMA DE TIENDA DE VIDEOJUEGOS     [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/ExamenFinal_ProyectoBasedeDatos)
+### SISTEMA DE TIENDA DE VIDEOJUEGOS     
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/ExamenFinal_ProyectoBasedeDatos)
 
 Diseño de base de datos y lógica para gestión de productos y ventas. 
 
