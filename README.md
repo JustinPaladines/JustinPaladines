@@ -17,13 +17,13 @@ de aplicaciones reales y mejorar mis habilidades en arquitectura de software.
 
 ## 📂 Proyectos Destacados
 
-SISTEMA DE LICENCIAS 
+### SISTEMA DE LICENCIAS 
 
 Desarrollo de un sistema aplicando POO para la gestión de licencias.  
 
 [![Sistema de Licencias](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/Prueba2_SistemadeLicencias)
 
-- Sistema de Tienda de Videojuegos
+### SISTEMA DE TIENDA DE VIDEOJUEGOS
 
 Diseño de base de datos y lógica para gestión de productos y ventas. 
 
