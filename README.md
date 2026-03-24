@@ -21,13 +21,10 @@ de aplicaciones reales y mejorar mis habilidades en arquitectura de software.
 
 Desarrollo de un sistema aplicando POO para la gestión de licencias.  
 
-[![Sistema de Licencias](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/Prueba2_SistemadeLicencias)
 
 ### SISTEMA DE TIENDA DE VIDEOJUEGOS     [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/ExamenFinal_ProyectoBasedeDatos)
 
 Diseño de base de datos y lógica para gestión de productos y ventas. 
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/ExamenFinal_ProyectoBasedeDatos)
 
 ## 🛠 Herramientas
 
