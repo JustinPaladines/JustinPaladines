@@ -28,7 +28,6 @@ Desarrollo de un sistema aplicando POO para la gestión de licencias.
 Diseño de base de datos y lógica para gestión de productos y ventas. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josselynreyes-ux/ExamenFinal_ProyectoBasedeDatos)
-## 🛠 Herramientas
 
 ## 🛠 Herramientas
 
