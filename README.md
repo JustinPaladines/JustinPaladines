@@ -13,7 +13,7 @@ de aplicaciones reales y mejorar mis habilidades en arquitectura de software.
 - 📚 Actualmente en 4to semestre    
 - 🛠 Experiencia con proyectos académicos usando Java, MySQL y control de versiones con Git  
 - 📈 En constante aprendizaje de nuevas tecnologías y buenas prácticas de desarrollo
-- justinpaladines007@gmail.com
+- Correo: justinpaladines007@gmail.com
 
 ## 📂 Proyectos Destacados
 
