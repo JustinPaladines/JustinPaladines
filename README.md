@@ -1,12 +1,11 @@
 
 # Hola, soy Justin Paladines 💻
 
+🎓 Estudiante de Tecnología Superior en Desarrollo de Software en la Escuela Politécnica Nacional  
 
-Estudiante  de Tecenología Superior en Desarrollo de Software en la Escuela Politécnica Nacional, con
-formación en programación orientada a objetos, diseño de interfaces y bases de datos.
-
-Con experiencia práctica en desarrollo de software a nivel académico y manejo de herramientas de
-control de versiones.
+Soy un desarrollador en formación con experiencia en proyectos académicos donde he aplicado 
+POO, diseño de sistemas y gestión de bases de datos. Me interesa seguir creciendo en el desarrollo 
+de aplicaciones reales y mejorar mis habilidades en arquitectura de software.
 
 
 ## Sobre mi
